@@ -30,4 +30,7 @@ Route::post('/survey/{survey}/answer', [\App\Http\Controllers\SurveyController::
 
 Route::post('/register', [AuthController::class, 'register']);
 Route::post('/login', [AuthController::class, 'login']);
+Route::get('/test', function () {
+    return response()->json(['message' => 'Laravel is working!']);
+});
 

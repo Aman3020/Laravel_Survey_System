@@ -2,7 +2,7 @@
   "name": "vue",
   "version": "0.0.0",
   "scripts": {
-    "dev": "vite",
+    "dev": "vite --host --port 5173",
     "build": "vite build",
     "preview": "vite preview"
   },
