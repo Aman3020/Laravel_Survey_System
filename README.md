@@ -20,10 +20,6 @@
 ## Requirements
 You need to have PHP version **8.0** or above. Node.js version **12.0** or above.
 
-## Demo
-https://yoursurveys.xyz
-
-
 ## Installation
 
 #### Backend
@@ -41,8 +37,4 @@ https://yoursurveys.xyz
 4. Start frontend by running `npm run dev`
 5. Open http://localhost:3000
 
-
-## License
-
-The project is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
 
